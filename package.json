@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.9",
+    "tailwindcss": "^2.0.1"
+  }
+}
